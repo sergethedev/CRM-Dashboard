@@ -14,6 +14,11 @@ module.exports = {
         '35': '6.55rem',
         '34': '2.55rem',
       },
+      colors: {
+        'custom-blue-1': 'rgb(17,21,37)', // Using RGB directly
+        'custom-blue-2': '#161c31',  
+        'custom-blue-3': '#171B2E',
+      }
     },
   },
   variants: {
