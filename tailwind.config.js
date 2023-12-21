@@ -15,9 +15,9 @@ module.exports = {
         '34': '2.55rem',
       },
       colors: {
-        'custom-blue-1': 'rgb(17,21,37)', // Using RGB directly
-        'custom-blue-2': '#161c31',  
-        'custom-blue-3': '#171B2E',
+        'nav': '#171b2e', // Using RGB directly
+        'background': '#111526',
+        'box': "#171c31"
       }
     },
   },
