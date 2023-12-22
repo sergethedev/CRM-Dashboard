@@ -17,7 +17,10 @@ module.exports = {
       colors: {
         'nav': '#171b2e', // Using RGB directly
         'background': '#111526',
-        'box': "#171c31"
+        'box': "#171c31",
+        'pinkText': '#A457A0',
+        'line': '#303C53',
+        'pinkDarker': '#890082'
       }
     },
   },
